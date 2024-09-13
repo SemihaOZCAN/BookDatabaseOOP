@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\BookDatabaseOOP\BookDatabaseOOP\bin\Debug\BookDatabaseOOP.exe.config
+C:\Users\Semiha\Desktop\BookDatabaseOOP\BookDatabaseOOP\bin\Debug\BookDatabaseOOP.exe
+C:\Users\Semiha\Desktop\BookDatabaseOOP\BookDatabaseOOP\bin\Debug\BookDatabaseOOP.pdb
+C:\Users\Semiha\Desktop\BookDatabaseOOP\BookDatabaseOOP\obj\Debug\BookDatabaseOOP.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\BookDatabaseOOP\BookDatabaseOOP\obj\Debug\BookDatabaseOOP.Form1.resources
+C:\Users\Semiha\Desktop\BookDatabaseOOP\BookDatabaseOOP\obj\Debug\BookDatabaseOOP.Properties.Resources.resources
+C:\Users\Semiha\Desktop\BookDatabaseOOP\BookDatabaseOOP\obj\Debug\BookDatabaseOOP.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\BookDatabaseOOP\BookDatabaseOOP\obj\Debug\BookDatabaseOOP.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\BookDatabaseOOP\BookDatabaseOOP\obj\Debug\BookDatabaseOOP.exe
+C:\Users\Semiha\Desktop\BookDatabaseOOP\BookDatabaseOOP\obj\Debug\BookDatabaseOOP.pdb

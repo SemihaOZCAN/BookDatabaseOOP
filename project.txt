@@ -1,0 +1,7 @@
+BookDatabaseOOP programı
+************************************
+Bu proje, kitap veritabanı yönetimi için bir uygulamadır. Uygulama, kullanıcıların kitap bilgilerini görüntüleyip eklemelerine olanak tanır. Proje üç ana bileşenden oluşur:
+KitapVT Sınıfı: Bu sınıf, veritabanı ile etkileşimde bulunur. Liste metodu, TBLKITAPLAR tablosundaki tüm kitap kayıtlarını alır ve bir liste halinde döner. KitapEkle metodu, kullanıcı tarafından girilen kitap bilgilerini veritabanına ekler ve oluşabilecek hataları yakalar, kullanıcıya bilgi verir.
+Kitap Sınıfı: Kitap nesnelerini temsil eder ve kitapların ID, ad ve yazar bilgilerini saklar. Bu sınıf, kitap nesnesinin temel özelliklerine erişim sağlar ve bu özelliklerin değerlerini alıp ayarlamaya olanak tanır.
+Form ise  Uygulamanın kullanıcı arayüzünü sunar. Form üzerinde bulunan butonlar, kullanıcının kitap verilerini görüntülemesine ve eklemesine yardımcı olur. button1_Click metodu, veritabanındaki kitapları bir tabloya yükler. buttonKAYDET_Click metodu ise, kullanıcı tarafından girilen kitap bilgilerini veritabanına ekler ve işlem sonucunu kullanıcıya bildirir. Hatalar durumunda kullanıcıya hata mesajları gösterilir.
+Bu uygulama, temel veritabanı işlemlerini destekleyerek kullanıcıların kitap bilgilerini etkili bir şekilde yönetmelerine olanak sağlar.
